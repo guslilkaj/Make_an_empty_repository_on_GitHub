@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 edited on main, take 2
+=======
+edited on feature branch
+>>>>>>> feature/divtextfile
